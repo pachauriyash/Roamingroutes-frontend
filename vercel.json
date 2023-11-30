@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/(.*)",
-        "destination": "https://roamingroutes-backend.onrender.com"
+        "destination": "/"
       }
     ]
   }
