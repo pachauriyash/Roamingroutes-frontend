@@ -1,0 +1,245 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+.box {
+    height: 100%;
+    width: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+  
+  .home-2 {
+    width: 100%;
+    background-color: #00000033;
+    border: 1px solid var(--col-9);
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .box .home-2 {
+    width: 100%;
+    align-items: flex-start;
+    background-color: #00000033;
+    border: 1px solid;
+    border-color: var(--col-9);
+    display: inline-flex;
+    flex-direction: column;
+    left: -1px;
+    position: relative;
+    top: -1px;
+  }
+  
+  .box .design-component-instance-node99 {
+    color: var(--col-9) !important;
+    /* background-color: var(--col-7) !important; */
+  }
+  
+  .box .navbar-2 {
+    border-radius: 2px !important;
+  }
+  
+  .box .design-component-instance-node-2 {
+    color: var(--col-9) !important;
+  }
+  
+  .box .navbar-instance {
+    color: var(--col-7) !important;
+    margin-left: -1px !important;
+    margin-top: -1px !important;
+  }
+  
+  .box .navbar-2-instance {
+    background-color: var(--col-9) !important;
+    border-color: var(--col-9) !important;
+    border-radius: 20px !important;
+    flex: 0 0 auto !important;
+    
+  }
+  
+  .box .design-component-instance-node-33 {
+    /* background-color: var(--col-6) ; */
+    color: var(--col-10) !important;
+    flex: 0 0 auto !important;
+  }
+  
+  .box .design-component-instance-node-4 {
+    color: var(--col-2) !important;
+  }
+  
+  .box .blog-instance {
+    color: var(--col-1) !important;
+}
+.box .blog-1-instance {
+  border-color: var(--col-10) !important;
+}
+  .box .design-component-instance-node-5 {
+    color: var(--col-9) !important;
+    background-color: var(--col-8) !important;
+    flex: 0 0 auto !important;
+  }
+  .box .blog-37 {
+    color: var(--col-5) !important;
+  }
+  
+  .box .blog-37-instance {
+    border-color: var(--col-2) !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    margin-bottom: -1px !important;
+    margin-right: -1px !important;
+    width: 106px !important;
+  }
+  .box .layout-1 {
+    border-color: var(--col-9) !important;
+    border-radius: 10px !important;
+    flex: 0 0 auto !important;
+    margin-bottom: -1px !important;
+    margin-left: -1px !important;
+    margin-top: -1px !important;
+  }
+  
+  .box .icon-chevron-right-6 {
+    height: 24px !important;
+    position: relative !important;
+    width: 24px !important;
+  }
+  
+  .box .design-component-instance-node-6 {
+    border-color: var(--col-9) !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    margin-bottom: -1px !important;
+    width: 106px !important;
+  }
+  
+  .box .CTA {
+    align-items: flex-start;
+    background-color: var(--col-8);
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 80px;
+    padding: 112px 64px;
+    padding-left: 0;
+    padding-right: 0;
+    position: relative;
+    width: 100%;
+  }
+  
+  .box .container-5 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 80px;
+    position: relative;
+    width: 100%;
+    width: calc(100% - 32px); /* Add padding on both sides */
+    margin: 0 16px; /* Add margin for centering */
+  }
+  
+  .box .content-18 {
+    align-items: flex-start;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .box .heading-9 {
+    align-self: stretch;
+    color: var(--col-2);
+    font-family: var(--heading-h3-font-family);
+    font-size: var(--heading-h3-font-size);
+    font-style: var(--heading-h3-font-style);
+    font-weight: var(--heading-h3-font-weight);
+    letter-spacing: var(--heading-h3-letter-spacing);
+    line-height: var(--heading-h3-line-height);
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .box .text-7 {
+    align-self: stretch;
+    color: var(--col-2);
+    font-family: var(--text-medium-normal-font-family);
+    font-size: var(--text-medium-normal-font-size);
+    font-style: var(--text-medium-normal-font-style);
+    font-weight: var(--text-medium-normal-font-weight);
+    letter-spacing: var(--text-medium-normal-letter-spacing);
+    line-height: var(--text-medium-normal-line-height);
+    position: relative;
+  }
+  
+  .box .actions-4 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+    width: 513px;
+  }
+  
+  .box .form {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 16px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .box .type-default-instance {
+    background-color: var(--col-8) !important;
+    border-color: var(--col-2) !important;
+    flex: 1 !important;
+    flex-grow: 1 !important;
+    margin-bottom: -1px !important;
+    margin-left: -1px !important;
+    margin-top: -1px !important;
+    width: unset !important;
+  }
+  
+  .box .type-default-2 {
+    color: var(--col-5) !important;
+  }
+  
+  .box .style-primary-small-instance {
+    background-color: var(--col-2) !important;
+    border-color: var(--col-2) !important;
+    display: flex !important;
+    margin-bottom: -2px !important;
+    margin-right: -2px !important;
+    margin-top: -2px !important;
+    width: 107px !important;
+  }
+  
+  .box .style-primary-small-false-dark-mode-false-icon-position-no-icon-instance {
+    color: var(--col-8) !important;
+    margin-top: -1px !important;
+  }
+  
+  .box .by-clicking-sign-up {
+    align-self: stretch;
+    color: var(--col-2);
+    font-family: var(--text-tiny-normal-font-family);
+    font-size: var(--text-tiny-normal-font-size);
+    font-style: var(--text-tiny-normal-font-style);
+    font-weight: var(--text-tiny-normal-font-weight);
+    letter-spacing: var(--text-tiny-normal-letter-spacing);
+    line-height: var(--text-tiny-normal-line-height);
+    position: relative;
+  }
+  
+  .box .footer-3 {
+    background-color: var(--col-2) !important;
+  }
+  
+  .box .footer-instance {
+    color: var(--col-2) !important;
+  }
+  

@@ -1,0 +1,379 @@
+.portfolio {
+    align-items: center;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+  }
+  
+  .portfolio .section-title-2 {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .portfolio .subheading-2 {
+    color: #000000;
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+  }
+  
+  .portfolio .content-5 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+  }
+  
+  .portfolio .heading-2 {
+    align-self: stretch;
+    color: #000000;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+  }
+  
+  .portfolio .p {
+    align-self: stretch;
+    color: #000000;
+    position: relative;
+    text-align: center;
+  }
+  
+  .portfolio .content-6 {
+    align-items: center;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .portfolio .portfolio-list {
+    align-items: center;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .portfolio .card-wrapper {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 48px;
+    position: relative;
+  }
+  
+  .portfolio .cardhome {
+    align-items: flex-start;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .portfolio .placeholder-image-2 {
+    align-self: stretch;
+    object-fit: fill;
+    position: relative;
+    width: 100%;
+  }
+  
+  .portfolio .content-7 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    position: relative;
+    width: 100%;
+  }
+  
+  .portfolio .content-8 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+  }
+  
+  .portfolio .heading-3 {
+    align-self: stretch;
+    color: #000000;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .portfolio .tags {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .portfolio .tag {
+    align-items: flex-start;
+    background-color: #f4f4f4;
+    display: inline-flex;
+    flex: 0 0 auto;
+    padding: 4px 8px;
+    position: relative;
+  }
+  
+  .portfolio .text-wrapper-3 {
+    color: #000000;
+    font-family: var(--text-small-semi-bold-font-family);
+    font-size: var(--text-small-semi-bold-font-size);
+    font-style: var(--text-small-semi-bold-font-style);
+    font-weight: var(--text-small-semi-bold-font-weight);
+    letter-spacing: var(--text-small-semi-bold-letter-spacing);
+    line-height: var(--text-small-semi-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .portfolio .column-5 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .portfolio .text-2 {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .portfolio .row-2 {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 48px;
+    position: relative;
+  }
+  
+  .portfolio .placeholder-image-3 {
+    align-self: stretch;
+    object-fit: contain;
+    position: relative;
+    width: 100%;
+  }
+  
+  .portfolio .content-9 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    position: relative;
+    width: 100%;
+  }
+  
+  .portfolio .content-10 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+  }
+  
+  .portfolio .heading-4 {
+    align-self: stretch;
+    color: #000000;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .portfolio .column-6 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+  }
+  
+ 
+  .portfolio.breakpoint-13-desktop {
+    gap: 80px;
+    padding: 112px 64px;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+  }
+  
+  
+  
+  .portfolio.breakpoint-13-desktop .section-title-2 {
+    gap: 16px;
+    width: 768px;
+  }
+  
+
+  .portfolio.breakpoint-13-desktop .subheading-2 {
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  
+  .portfolio.breakpoint-13-desktop .content-5 {
+    gap: 24px;
+  }
+
+  
+  .portfolio.breakpoint-13-desktop .heading-2 {
+    font-family: var(--heading-h2-font-family);
+    font-size: var(--heading-h2-font-size);
+    font-style: var(--heading-h2-font-style);
+    font-weight: var(--heading-h2-font-weight);
+    letter-spacing: var(--heading-h2-letter-spacing);
+    line-height: var(--heading-h2-line-height);
+  }
+  
+
+  .portfolio.breakpoint-13-desktop .p {
+    font-family: var(--text-medium-normal-font-family);
+    font-size: var(--text-medium-normal-font-size);
+    font-style: var(--text-medium-normal-font-style);
+    font-weight: var(--text-medium-normal-font-weight);
+    letter-spacing: var(--text-medium-normal-letter-spacing);
+    line-height: var(--text-medium-normal-line-height);
+  }
+  
+  
+  
+  .portfolio.breakpoint-13-desktop .content-6 {
+    display: inline-flex;
+    gap: 64px;
+  }
+  
+ 
+  .portfolio.breakpoint-13-desktop .portfolio-list {
+    display: inline-flex;
+    gap: 80px;
+  }
+
+  .portfolio.breakpoint-13-desktop .card-wrapper {
+    width: 1312px;
+  }
+ 
+  .portfolio.breakpoint-13-desktop .placeholder-image-2 {
+    height: 640px;
+  }
+ 
+  .portfolio.breakpoint-13-desktop .content-7 {
+    gap: 80px;
+  }
+  
+  
+  .portfolio.breakpoint-13-desktop .content-8 {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+
+  
+  .portfolio.breakpoint-13-desktop .heading-3 {
+    font-family: var(--heading-h5-font-family);
+    font-size: var(--heading-h5-font-size);
+    font-style: var(--heading-h5-font-style);
+    font-weight: var(--heading-h5-font-weight);
+    letter-spacing: var(--heading-h5-letter-spacing);
+    line-height: var(--heading-h5-line-height);
+  }
+  
+  
+  
+  .portfolio.breakpoint-13-desktop .column-5 {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  
+  .portfolio.breakpoint-13-desktop .row-2 {
+    width: 1312px;
+  }
+  
+  .portfolio.breakpoint-13-desktop .placeholder-image-3 {
+    height: 640px;
+  }
+  
+
+  .portfolio.breakpoint-13-desktop .content-9 {
+    gap: 80px;
+  }
+ 
+  
+  .portfolio.breakpoint-13-desktop .content-10 {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+
+  
+  .portfolio.breakpoint-13-desktop .heading-4 {
+    font-family: var(--heading-h5-font-family);
+    font-size: var(--heading-h5-font-size);
+    font-style: var(--heading-h5-font-style);
+    font-weight: var(--heading-h5-font-weight);
+    letter-spacing: var(--heading-h5-letter-spacing);
+    line-height: var(--heading-h5-line-height);
+  }
+  
+
+  
+  .portfolio.breakpoint-13-desktop .column-6 {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+.style-secondary-wrapper {
+    align-items: center;
+    border: 1px solid;
+    border-color: #000000;
+    display: inline-flex;
+    gap: 8px;
+    justify-content: center;
+    padding: 12px 24px;
+    position: relative;
+  }
+  
+  .style-secondary-wrapper .button-4 {
+    color: #000000;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  

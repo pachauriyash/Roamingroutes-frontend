@@ -1,0 +1,118 @@
+
+.navbar {
+    align-items: center;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+  }
+  
+  .navbar .container {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 32px;
+    justify-content: center;
+    position: relative;
+    width: 100%; /* Add this line */
+    overflow: hidden; /* Add this line */
+}
+
+  
+  .navbar .contentt {
+    align-items: flex-start;
+    display: inline-flex;
+    padding-top: 25px;
+    flex: 1;
+    flex-grow: 1;
+    position: relative;
+
+  }
+  
+  .navbar .column {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 32px;
+    position: relative;
+  }
+  
+  .navbar .text-wrapper {
+    color: #000000;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    
+  }
+  
+  
+  .navbar .actions {
+    align-items: flex-end;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: center;
+    position: relative;
+  }
+
+  .navbar.desktop {
+    /* border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #000000; */
+    height: 72px;
+    justify-content: center;
+    padding: 0px 64px;
+    padding-right: 0;
+    width: 100%;
+  }
+  .style-primary-small {
+    align-items: center;
+    background-color: #000000;
+    border: 1px solid;
+    border-color: #000000;
+    display: inline-flex;
+    gap: 8px;
+    justify-content: center;
+    padding: 8px 20px;
+    margin-right: 20%;
+    position: relative;
+  }
+  
+  .style-primary-small .button {
+    color: #ffffff;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  .transparent-toggle{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 0;
+  }
+  .transparent-toggle:hover{
+    background-color: transparent;
+    outline: none;
+  }
+  .transparent-toggle:focus,
+  .transparent-toggle:active {
+    background-color: transparent;
+    outline: none;
+  }

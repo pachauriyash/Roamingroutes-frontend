@@ -1,0 +1,338 @@
+.breakpoint-desktop-wrapper {
+    align-items: flex-start;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .breakpoint-desktop-wrapper .section-title-2 {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+    width: calc(100% - 32px); /* Add padding on both sides */
+    margin: 0 16px; /* Add margin for centering */
+  }
+  
+  .breakpoint-desktop-wrapper .subheading-2 {
+    color: #000000;
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .breakpoint-desktop-wrapper .content-7 {
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+  }
+  
+  .breakpoint-desktop-wrapper .heading-7 {
+    align-self: stretch;
+    color: #000000;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .breakpoint-desktop-wrapper .text-3 {
+    align-self: stretch;
+    color: #000000;
+    position: relative;
+  }
+  
+  .breakpoint-desktop-wrapper .content-8 {
+    align-items: flex-end;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+    width: calc(100% - 32px); /* Add padding on both sides */
+    margin: 0 16px; /* Add margin for centering */
+  }
+  
+  .breakpoint-desktop-wrapper .row-4 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 32px;
+    position: relative;
+    width: 100%;
+    
+  }
+  
+  .breakpoint-desktop-wrapper .card-7 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .breakpoint-desktop-wrapper .placeholder-image-7 {
+    align-self: stretch;
+    object-fit: cover;
+    position: relative;
+    width: 100%;
+  }
+  
+  .breakpoint-desktop-wrapper .content-9 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .breakpoint-desktop-wrapper .text-4 {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--text-small-semi-bold-font-family);
+    font-size: var(--text-small-semi-bold-font-size);
+    font-style: var(--text-small-semi-bold-font-style);
+    font-weight: var(--text-small-semi-bold-font-weight);
+    letter-spacing: var(--text-small-semi-bold-letter-spacing);
+    line-height: var(--text-small-semi-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .breakpoint-desktop-wrapper .heading-8 {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--heading-h5-font-family);
+    font-size: var(--heading-h5-font-size);
+    font-style: var(--heading-h5-font-style);
+    font-weight: var(--heading-h5-font-weight);
+    letter-spacing: var(--heading-h5-letter-spacing);
+    line-height: var(--heading-h5-line-height);
+    position: relative;
+  }
+  
+  .breakpoint-desktop-wrapper .text-5 {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    position: relative;
+  }
+  
+  .breakpoint-desktop-wrapper .avatar-2 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 16px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .breakpoint-desktop-wrapper .placeholder-image-8 {
+    height: 48px;
+    object-fit: cover;
+    position: relative;
+    width: 48px;
+  }
+  
+  .breakpoint-desktop-wrapper .content-10 {
+    align-items: flex-start;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    position: relative;
+  }
+  
+  .breakpoint-desktop-wrapper .time-2 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .breakpoint-desktop-wrapper .text-6 {
+    color: #000000;
+    font-family: var(--text-small-normal-font-family);
+    font-size: var(--text-small-normal-font-size);
+    font-style: var(--text-small-normal-font-style);
+    font-weight: var(--text-small-normal-font-weight);
+    letter-spacing: var(--text-small-normal-letter-spacing);
+    line-height: var(--text-small-normal-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .breakpoint-desktop-wrapper .text-wrapper-7 {
+    color: #000000;
+    font-family: var(--text-medium-normal-font-family);
+    font-size: var(--text-medium-normal-font-size);
+    font-style: var(--text-medium-normal-font-style);
+    font-weight: var(--text-medium-normal-font-weight);
+    letter-spacing: var(--text-medium-normal-letter-spacing);
+    line-height: var(--text-medium-normal-line-height);
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .breakpoint-desktop-wrapper .card-8 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .breakpoint-desktop-wrapper .placeholder-image-9 {
+    align-self: stretch;
+    object-fit: cover;
+    position: relative;
+    width: 100%;
+  }
+  
+  .breakpoint-desktop-wrapper .card-9 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .breakpoint-desktop-wrapper .placeholder-image-10 {
+    align-self: stretch;
+    object-fit: cover;
+    position: relative;
+    width: 100%;
+  }
+  
+  
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop {
+    gap: 80px;
+    padding: 112px 64px;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+    
+  }
+  
+  
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .section-title-2 {
+    gap: 16px;
+    width: 768px;
+  }
+  
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .subheading-2 {
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .content-7 {
+    align-items: center;
+    gap: 24px;
+  }
+ 
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .heading-7 {
+    font-family: var(--heading-h2-font-family);
+    font-size: var(--heading-h2-font-size);
+    font-style: var(--heading-h2-font-style);
+    font-weight: var(--heading-h2-font-weight);
+    letter-spacing: var(--heading-h2-letter-spacing);
+    line-height: var(--heading-h2-line-height);
+  }
+ 
+  
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .text-3 {
+    font-family: var(--text-medium-normal-font-family);
+    font-size: var(--text-medium-normal-font-size);
+    font-style: var(--text-medium-normal-font-style);
+    font-weight: var(--text-medium-normal-font-weight);
+    letter-spacing: var(--text-medium-normal-letter-spacing);
+    line-height: var(--text-medium-normal-line-height);
+  }
+  
+
+  
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .content-8 {
+    gap: 64px;
+  }
+  
+  
+  
+  
+  
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .card-7 {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .placeholder-image-7 {
+    height: 300px;
+  }
+  
+  
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .card-8 {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .placeholder-image-9 {
+    height: 300px;
+  }
+ 
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .card-9 {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .breakpoint-desktop-wrapper.breakpoint-28-desktop .placeholder-image-10 {
+    height: 300px;
+  }
+  
+  .style-secondary {
+    align-items: center;
+    border: 1px solid;
+    border-color: #000000;
+    display: inline-flex;
+    gap: 8px;
+    justify-content: center;
+    padding: 12px 24px;
+    position: relative;
+  }
+  
+  .style-secondary .button-3 {
+    color: #000000;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  

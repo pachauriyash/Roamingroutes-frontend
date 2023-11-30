@@ -1,0 +1,491 @@
+.blog {
+    align-items: center;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+  }
+  
+  .blog .section-title-3 {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .blog .subheading-3 {
+    color: #000000;
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+  }
+  
+  .blog .content-11 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+  }
+  
+  .blog .heading-5 {
+    align-self: stretch;
+    color: #000000;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+  }
+  
+  .blog .text-3 {
+    align-self: stretch;
+    color: #000000;
+    position: relative;
+    text-align: center;
+  }
+  
+  .blog .content-122 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+  }
+  
+  .blog .row-3 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    position: relative;
+    width: calc(100% - 32px); /* Add padding on both sides */
+    margin: 0 16px; /* Add margin for centering */
+}
+  .blog .card-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .blog .placeholder-image-4 {
+    align-self: stretch;
+    object-fit: cover;
+    position: relative;
+    width: 100%;
+  }
+  
+  .blog .content-13 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .blog .info {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 16px;
+    position: relative;
+  }
+  
+  .blog .container-3 {
+    align-items: flex-start;
+    background-color: #f4f4f4;
+    display: inline-flex;
+    flex: 0 0 auto;
+    padding: 4px 8px;
+    position: relative;
+  }
+  
+  .blog .text-4 {
+    color: #000000;
+    font-family: var(--text-small-semi-bold-font-family);
+    font-size: var(--text-small-semi-bold-font-size);
+    font-style: var(--text-small-semi-bold-font-style);
+    font-weight: var(--text-small-semi-bold-font-weight);
+    letter-spacing: var(--text-small-semi-bold-letter-spacing);
+    line-height: var(--text-small-semi-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .blog .text-5 {
+    color: #000000;
+    font-family: var(--text-small-semi-bold-font-family);
+    font-size: var(--text-small-semi-bold-font-size);
+    font-style: var(--text-small-semi-bold-font-style);
+    font-weight: var(--text-small-semi-bold-font-weight);
+    letter-spacing: var(--text-small-semi-bold-letter-spacing);
+    line-height: var(--text-small-semi-bold-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .blog .content-14 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .blog .heading-6 {
+    align-self: stretch;
+    color: #000000;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .blog .text-6 {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    position: relative;
+  }
+  
+  .blog .style-link-small-instance {
+    display: flex !important;
+    flex: 0 0 auto !important;
+    width: 109px !important;
+  }
+  
+  .blog .card-3 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .blog .placeholder-image-5 {
+    align-self: stretch;
+    object-fit: cover;
+    position: relative;
+    width: 100%;
+  }
+  
+  .blog .heading-7 {
+    align-self: stretch;
+    color: #000000;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .blog .card-4 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .blog .placeholder-image-6 {
+    align-self: stretch;
+    object-fit: cover;
+    position: relative;
+    width: 100%;
+  }
+  
+  .blog .heading-8 {
+    align-self: stretch;
+    color: #000000;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .blog .icon-chevron-right-4 {
+    height: 24px !important;
+    position: relative !important;
+    width: 24px !important;
+  }
+  
+  .blog.breakpoint-33-mobile {
+    gap: 48px;
+    padding: 64px 20px;
+    width: 375px;
+  }
+  
+  .blog.breakpoint-33-desktop {
+    gap: 80px;
+    padding: 112px 64px;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+  }
+  
+  .blog.breakpoint-33-mobile .section-title-3 {
+    align-self: stretch;
+    gap: 12px;
+    width: 100%;
+  }
+  
+  .blog.breakpoint-33-desktop .section-title-3 {
+    gap: 16px;
+    width: 768px;
+  }
+  
+  .blog.breakpoint-33-mobile .subheading-3 {
+    align-self: stretch;
+  }
+  
+  .blog.breakpoint-33-desktop .subheading-3 {
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .blog.breakpoint-33-mobile .content-11 {
+    gap: 20px;
+  }
+  
+  .blog.breakpoint-33-desktop .content-11 {
+    gap: 24px;
+  }
+  
+  .blog.breakpoint-33-mobile .heading-5 {
+    font-family: var(--heading-h2-mobile-font-family);
+    font-size: var(--heading-h2-mobile-font-size);
+    font-style: var(--heading-h2-mobile-font-style);
+    font-weight: var(--heading-h2-mobile-font-weight);
+    letter-spacing: var(--heading-h2-mobile-letter-spacing);
+    line-height: var(--heading-h2-mobile-line-height);
+  }
+  
+  .blog.breakpoint-33-desktop .heading-5 {
+    font-family: var(--heading-h2-font-family);
+    font-size: var(--heading-h2-font-size);
+    font-style: var(--heading-h2-font-style);
+    font-weight: var(--heading-h2-font-weight);
+    letter-spacing: var(--heading-h2-letter-spacing);
+    line-height: var(--heading-h2-line-height);
+  }
+  
+  .blog.breakpoint-33-mobile .text-3 {
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+  }
+  
+  .blog.breakpoint-33-desktop .text-3 {
+    font-family: var(--text-medium-normal-font-family);
+    font-size: var(--text-medium-normal-font-size);
+    font-style: var(--text-medium-normal-font-style);
+    font-weight: var(--text-medium-normal-font-weight);
+    letter-spacing: var(--text-medium-normal-letter-spacing);
+    line-height: var(--text-medium-normal-line-height);
+  }
+  
+  .blog.breakpoint-33-mobile .content-122 {
+    gap: 40px;
+  }
+  
+  .blog.breakpoint-33-desktop .content-122 {
+    gap: 64px;
+
+  }
+  
+  .blog.breakpoint-33-mobile .row-3 {
+    flex-direction: column;
+    gap: 48px;
+  }
+  
+  .blog.breakpoint-33-desktop .row-3 {
+    
+    gap: 32px;
+  }
+  
+  .blog.breakpoint-33-mobile .card-2 {
+    align-self: stretch;
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  
+  .blog.breakpoint-33-desktop .card-2 {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .blog.breakpoint-33-mobile .placeholder-image-4 {
+    height: 221px;
+  }
+  
+  .blog.breakpoint-33-desktop .placeholder-image-4 {
+    height: 300px;
+  }
+  
+  .blog.breakpoint-33-mobile .heading-6 {
+    font-family: var(--heading-h5-mobile-font-family);
+    font-size: var(--heading-h5-mobile-font-size);
+    font-style: var(--heading-h5-mobile-font-style);
+    font-weight: var(--heading-h5-mobile-font-weight);
+    letter-spacing: var(--heading-h5-mobile-letter-spacing);
+    line-height: var(--heading-h5-mobile-line-height);
+  }
+  
+  .blog.breakpoint-33-desktop .heading-6 {
+    font-family: var(--heading-h5-font-family);
+    font-size: var(--heading-h5-font-size);
+    font-style: var(--heading-h5-font-style);
+    font-weight: var(--heading-h5-font-weight);
+    letter-spacing: var(--heading-h5-letter-spacing);
+    line-height: var(--heading-h5-line-height);
+  }
+  
+  .blog.breakpoint-33-mobile .card-3 {
+    align-self: stretch;
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  
+  .blog.breakpoint-33-desktop .card-3 {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .blog.breakpoint-33-mobile .placeholder-image-5 {
+    height: 221px;
+  }
+  
+  .blog.breakpoint-33-desktop .placeholder-image-5 {
+    height: 300px;
+  }
+  
+  .blog.breakpoint-33-mobile .heading-7 {
+    font-family: var(--heading-h5-mobile-font-family);
+    font-size: var(--heading-h5-mobile-font-size);
+    font-style: var(--heading-h5-mobile-font-style);
+    font-weight: var(--heading-h5-mobile-font-weight);
+    letter-spacing: var(--heading-h5-mobile-letter-spacing);
+    line-height: var(--heading-h5-mobile-line-height);
+  }
+  
+  .blog.breakpoint-33-desktop .heading-7 {
+    font-family: var(--heading-h5-font-family);
+    font-size: var(--heading-h5-font-size);
+    font-style: var(--heading-h5-font-style);
+    font-weight: var(--heading-h5-font-weight);
+    letter-spacing: var(--heading-h5-letter-spacing);
+    line-height: var(--heading-h5-line-height);
+  }
+  
+  .blog.breakpoint-33-mobile .card-4 {
+    align-self: stretch;
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  
+  .blog.breakpoint-33-desktop .card-4 {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .blog.breakpoint-33-mobile .placeholder-image-6 {
+    height: 221px;
+  }
+  
+  .blog.breakpoint-33-desktop .placeholder-image-6 {
+    height: 300px;
+  }
+  
+  .blog.breakpoint-33-mobile .heading-8 {
+    font-family: var(--heading-h5-mobile-font-family);
+    font-size: var(--heading-h5-mobile-font-size);
+    font-style: var(--heading-h5-mobile-font-style);
+    font-weight: var(--heading-h5-mobile-font-weight);
+    letter-spacing: var(--heading-h5-mobile-letter-spacing);
+    line-height: var(--heading-h5-mobile-line-height);
+  }
+  
+  .blog.breakpoint-33-desktop .heading-8 {
+    font-family: var(--heading-h5-font-family);
+    font-size: var(--heading-h5-font-size);
+    font-style: var(--heading-h5-font-style);
+    font-weight: var(--heading-h5-font-weight);
+    letter-spacing: var(--heading-h5-letter-spacing);
+    line-height: var(--heading-h5-line-height);
+  }
+  
+
+  /* style link small wrapper */
+  .style-link-small-wrapper {
+    align-items: center;
+    display: inline-flex;
+    gap: 8px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .style-link-small-wrapper .text-wrapper-4 {
+    color: #000000;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .style-link-small-wrapper .icon-chevron-right-5 {
+    height: 24px !important;
+    position: relative !important;
+    width: 24px !important;
+  }
+  /* style secondary wrapper */
+  .style-secondary-wrapper {
+    align-items: center;
+    border: 1px solid;
+    border-color: #000000;
+    display: inline-flex;
+    gap: 8px;
+    justify-content: center;
+    padding: 12px 24px;
+    position: relative;
+  }
+  
+  .style-secondary-wrapper .button-4 {
+    color: #000000;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  

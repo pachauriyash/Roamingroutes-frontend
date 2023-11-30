@@ -1,0 +1,455 @@
+.footer {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .footer .content-15 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    position: relative;
+    width: 100%;
+    width: calc(100% - 32px); /* Add padding on both sides */
+    margin: 0 16px; /* Add margin for centering */
+  }
+  
+  .footer .column-7 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .footer .logo {
+    height: 27px;
+    position: relative;
+    width: 63px;
+  }
+  
+  .footer .content-16 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .footer .content-17 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 4px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .footer .text-wrapper-7 {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--text-small-semi-bold-font-family);
+    font-size: var(--text-small-semi-bold-font-size);
+    font-style: var(--text-small-semi-bold-font-style);
+    font-weight: var(--text-small-semi-bold-font-weight);
+    letter-spacing: var(--text-small-semi-bold-letter-spacing);
+    line-height: var(--text-small-semi-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .footer .text-wrapper-8 {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--text-small-normal-font-family);
+    font-size: var(--text-small-normal-font-size);
+    font-style: var(--text-small-normal-font-style);
+    font-weight: var(--text-small-normal-font-weight);
+    letter-spacing: var(--text-small-normal-letter-spacing);
+    line-height: var(--text-small-normal-line-height);
+    position: relative;
+  }
+  
+  .footer .container-4 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+  }
+  
+  .footer .text-wrapper-9 {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--text-small-link-font-family);
+    font-size: var(--text-small-link-font-size);
+    font-style: var(--text-small-link-font-style);
+    font-weight: var(--text-small-link-font-weight);
+    letter-spacing: var(--text-small-link-letter-spacing);
+    line-height: var(--text-small-link-line-height);
+    margin-top: -1px;
+    position: relative;
+    text-decoration: underline;
+  }
+  
+  .footer .info-relume-io {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--text-small-link-font-family);
+    font-size: var(--text-small-link-font-size);
+    font-style: var(--text-small-link-font-style);
+    font-weight: var(--text-small-link-font-weight);
+    letter-spacing: var(--text-small-link-letter-spacing);
+    line-height: var(--text-small-link-line-height);
+    position: relative;
+    text-decoration: underline;
+  }
+  
+  .footer .social-links {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    position: relative;
+  }
+  
+  .footer .instance-node {
+    height: 24px !important;
+    position: relative !important;
+    width: 24px !important;
+  }
+  
+  .footer .column-8 {
+    align-items: flex-start;
+    display: flex;
+    position: relative;
+  }
+  
+  .footer .link-list {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    position: relative;
+  }
+  
+  .footer .text-wrapper-10 {
+    align-self: stretch;
+    color: #000000;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .footer .text-wrapper-11 {
+    align-self: stretch;
+    color: #000000;
+    position: relative;
+  }
+  
+  .footer .text-wrapper-12 {
+    align-self: stretch;
+    color: #000000;
+    position: relative;
+  }
+  
+  .footer .text-wrapper-13 {
+    align-self: stretch;
+    color: #000000;
+    position: relative;
+  }
+  
+  .footer .text-wrapper-14 {
+    align-self: stretch;
+    color: #000000;
+    position: relative;
+  }
+  
+  .footer .link-list-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    position: relative;
+  }
+  
+  .footer .text-wrapper-15 {
+    align-self: stretch;
+    color: #000000;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .footer .text-wrapper-16 {
+    align-self: stretch;
+    color: #000000;
+    position: relative;
+  }
+  
+  .footer .text-wrapper-17 {
+    align-self: stretch;
+    color: #000000;
+    position: relative;
+  }
+  
+  .footer .text-wrapper-18 {
+    align-self: stretch;
+    color: #000000;
+    position: relative;
+  }
+  
+  .footer .text-wrapper-19 {
+    align-self: stretch;
+    color: #000000;
+    position: relative;
+  }
+  
+  .footer .credits {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+    width: calc(100% - 32px); /* Add padding on both sides */
+    margin: 0 16px; /* Add margin for centering */
+  }
+  
+  .footer .divider {
+    align-self: stretch;
+    background-color: #000000;
+    height: 1px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .footer .row-4 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    position: relative;
+    width: 100%;
+  }
+  
+  .footer .element-relume-all {
+    position: relative;
+  }
+  
+  .footer .text-wrapper-20 {
+    color: #000000;
+    font-family: var(--text-small-link-font-family);
+    font-size: var(--text-small-link-font-size);
+    font-style: var(--text-small-link-font-style);
+    font-weight: var(--text-small-link-font-weight);
+    letter-spacing: var(--text-small-link-letter-spacing);
+    line-height: var(--text-small-link-line-height);
+    margin-top: -1px;
+    position: relative;
+    text-decoration: underline;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .footer .text-wrapper-21 {
+    color: #000000;
+    font-family: var(--text-small-link-font-family);
+    font-size: var(--text-small-link-font-size);
+    font-style: var(--text-small-link-font-style);
+    font-weight: var(--text-small-link-font-weight);
+    letter-spacing: var(--text-small-link-letter-spacing);
+    line-height: var(--text-small-link-line-height);
+    position: relative;
+    text-decoration: underline;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .footer .footer-links {
+    position: relative;
+  }
+  
+ 
+  
+  .footer.breakpoint-50-desktop {
+    align-items: center;
+    gap: 80px;
+    padding: 80px 64px;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+  }
+
+  .footer.breakpoint-50-desktop .content-15 {
+    gap: 64px;
+  }
+  
+  
+  .footer.breakpoint-50-desktop .column-7 {
+    gap: 32px;
+    width: 864px;
+  }
+  
+  
+  .footer.breakpoint-50-desktop .column-8 {
+    flex: 1;
+    flex-grow: 1;
+    gap: 24px;
+  }
+  
+  .footer.breakpoint-50-desktop .link-list {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+ 
+  .footer.breakpoint-50-desktop .text-wrapper-10 {
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+  }
+  
+
+  
+  .footer.breakpoint-50-desktop .text-wrapper-11 {
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+  }
+  
+  
+  
+  .footer.breakpoint-50-desktop .text-wrapper-12 {
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+  }
+  
+  
+  
+  .footer.breakpoint-50-desktop .text-wrapper-13 {
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+  }
+  
+  
+  
+  .footer.breakpoint-50-desktop .text-wrapper-14 {
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+  }
+  
+  
+  .footer.breakpoint-50-desktop .link-list-2 {
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .footer.breakpoint-50-desktop .text-wrapper-15 {
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+  }
+  
+  
+  
+  .footer.breakpoint-50-desktop .text-wrapper-16 {
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+  }
+  
+
+  .footer.breakpoint-50-desktop .text-wrapper-17 {
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+  }
+  
+  
+  .footer.breakpoint-50-desktop .text-wrapper-18 {
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+  }
+  
+ 
+  .footer.breakpoint-50-desktop .text-wrapper-19 {
+    font-family: var(--text-regular-semi-bold-font-family);
+    font-size: var(--text-regular-semi-bold-font-size);
+    font-style: var(--text-regular-semi-bold-font-style);
+    font-weight: var(--text-regular-semi-bold-font-weight);
+    letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+    line-height: var(--text-regular-semi-bold-line-height);
+  }
+  
+
+  
+  .footer.breakpoint-50-desktop .credits {
+    gap: 32px;
+  }
+  
+ 
+  .footer.breakpoint-50-desktop .row-4 {
+    justify-content: space-between;
+  }
+ 
+  .footer.breakpoint-50-desktop .element-relume-all {
+    color: #000000;
+    font-family: var(--text-small-normal-font-family);
+    font-size: var(--text-small-normal-font-size);
+    font-style: var(--text-small-normal-font-style);
+    font-weight: var(--text-small-normal-font-weight);
+    letter-spacing: var(--text-small-normal-letter-spacing);
+    line-height: var(--text-small-normal-line-height);
+    margin-top: -1px;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  
+  
+  .footer.breakpoint-50-desktop .footer-links {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 24px;
+  }
+  
