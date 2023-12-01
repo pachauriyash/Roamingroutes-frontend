@@ -84,7 +84,7 @@ To use Roamingroutes Site, follow these steps:
 
 ## Screenshots
 
-Here are some screenshots of the Travel Blogsite:
+Here are some screenshots of Roamingroutes site:
 
 ### Homepage
 <img width="1440" alt="Screenshot 2023-12-02 at 12 43 54 AM" src="https://github.com/pachauriyash/Roamingroutes-frontend/assets/86353193/b85d8863-bfd3-43c8-be47-62af8fc87007">
