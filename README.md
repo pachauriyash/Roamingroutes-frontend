@@ -9,9 +9,8 @@ Welcome to RoamingRoutes which is a full-stack web application built with the ME
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Live Demo](#live-demo)
 - [Screenshots](#screenshots)
-- [Query or Feedback](#sQuery-or-Feedback)
+- [Feedback](#feedback)
 
 ## Features
 
@@ -110,7 +109,7 @@ Here are some screenshots of Roamingroutes site:
 <img width="1440" alt="Screenshot 2023-12-02 at 12 46 58 AM" src="https://github.com/pachauriyash/Roamingroutes-frontend/assets/86353193/b195dba5-e056-4dfb-95d0-5511ff61aaf3">
 
 
-## Query or Feedback
+## Feedback
 
 Please feel free to reach out if you have any questions, suggestions, or feedback about the project. I'd love to hear from you!
 
