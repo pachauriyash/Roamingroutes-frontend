@@ -34,7 +34,7 @@ https://github.com/pachauriyash/Roamingroutes-frontend/assets/86353193/6997d599-
   - Axios (for API requests)
   - React Router (for navigation)
   - Custom CSS and bootstrap for Styling
-  - Emailjs
+  - Emailjs for emailing service on Contact us
 
 - **Backend:**
   - Node.js
