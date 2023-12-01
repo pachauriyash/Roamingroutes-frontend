@@ -49,7 +49,7 @@ const truncateHtml = (html, maxLength) => {
               <img
   className="placeholder-image-2"
   alt="Placeholder image"
-  src={(defaultdest[index].coverphoto)}
+  src={ item.coverphoto || (defaultdest[index].coverphoto)}
 />
 
 
