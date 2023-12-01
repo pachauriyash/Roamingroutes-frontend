@@ -56,11 +56,11 @@ To run this project locally, follow these steps:
     ```sh
     npm install
 3. Set up your Environment variables:
-Create a .env file in the root directory with following variables.
-VITE_YOUR_SERVICE_ID
-VITE_YOUR_TEMPLATE_ID
-VITE_YOUR_PUBLIC_KEY
-VITE_YOUR_ENDPOINT="http://localhost:9000"
+  Create a .env file in the root directory with following variables.
+  - VITE_YOUR_SERVICE_ID
+  - VITE_YOUR_TEMPLATE_ID
+  - VITE_YOUR_PUBLIC_KEY
+  - VITE_YOUR_ENDPOINT="http://localhost:9000"
 4. Setup the backend server by visitng https://github.com/pachauriyash/Roamingroutes-server
 
 5. Run your react server
