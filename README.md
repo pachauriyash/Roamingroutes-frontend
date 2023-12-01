@@ -1,4 +1,4 @@
-# Travel Blogsite
+# RoamingRoutes
 
 Welcome to RoamingRoutes which is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack. It provides a platform for travel enthusiasts to create, edit, and share their travel stories with a focus on rich multimedia content.
 
@@ -115,7 +115,7 @@ Please feel free to reach out if you have any questions, suggestions, or feedbac
 
 - **Email:** Send me an email at [yashpachauri.yp@gmail.com](mailto:yashpachauri.yp@gmail.com) for any queries or to share your thoughts.
 
-I look forward to improving the Travel Blogsite based on your suggestions.
+I look forward to improving Roamingroutes based on your suggestions.
 
 Happy coding!
 
